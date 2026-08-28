@@ -3,7 +3,7 @@
 
 ## Задание 1
 
-![Задание 1](https://github.com/Alucard95743/zabbix-hw-smirnovm/tree/main/img/task1.png)
+![Задание 1](https://raw.githubusercontent.com/Alucard95743/zabbix-hw-smirnovm/main/img/task1.png)
 
 
 ---
