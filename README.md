@@ -4,6 +4,7 @@
 ## Задание 1
 
 ![Задание 1](https://raw.githubusercontent.com/Alucard95743/zabbix-hw-smirnovm/main/img/task1.png)
+![Задание 1](https://raw.githubusercontent.com/Alucard95743/zabbix-hw-smirnovm/main/img/task1.1.png)
 
 
 ---
